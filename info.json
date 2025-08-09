@@ -9,7 +9,17 @@
 	"description": "This mod contains and integrates HD textures for basic entities (e.g. character and ore) of the base game.",
 	"package": {
 		"gallery": [
-			".gallery/thumbnail_huge.png"
+			".gallery/thumbnail_huge.png",
+			".gallery/stone-path-4-SD.png",
+			".gallery/stone-path-4-HD.png",
+			".gallery/spaceship-wreck-big-1-SD.png",
+			".gallery/spaceship-wreck-big-1-HD.png",
+			".gallery/level1_dead-SD.png",
+			".gallery/level1_dead-HD.png",
+			".gallery/crash-site-chest-1-SD.png",
+			".gallery/crash-site-chest-1-HD.png",
+			".gallery/06-rocket-silo-SD.png",
+			".gallery/06-rocket-silo-HD.png"
 		],
 		"prune_gallery": true,
 		"faq": "FAQ.md",
