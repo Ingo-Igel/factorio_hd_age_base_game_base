@@ -1,6 +1,6 @@
 # Factorio HD Age: Base Game - Base
 
-[![Github Source Code](https://img.shields.io/badge/GitHub-Source%20Code-blue)](https://github.com/Ingo-Igel/factorio_hd_age_base_game_base) [![Downloads](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio%20Mod%20Portal&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Ffactorio_hd_age_base_game_base)](https://mods.factorio.com/mod/factorio_hd_age_base_game_base)
+[![Github Source Code](https://img.shields.io/badge/GitHub-Source%20Code-blue)](https://github.com/Ingo-Igel/factorio_hd_age_base_game_base) [![Downloads](https://simpleurl.tech/downloads_factorio_hd_age_base_game_base)](https://mods.factorio.com/mod/factorio_hd_age_base_game_base)
 
 This mod contains and integrates HD textures for basic entities (e.g. character and ore) of the base game.
 
